@@ -11,3 +11,5 @@ Then a neural network model is created using TensorFlow and Keras library. This 
 After creating the model, it trains it and records the training accuracy in each training round (epoch). Then it calculates and prints the prediction accuracy of the model on the test data.
 
 Finally, it saves the trained model for later use, also saves the model in `h5` and `tf` formats, ready to be loaded and used in other environments.
+
+Data: https://www.kaggle.com/datasets/saurabh00007/diabetescsv
